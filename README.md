@@ -3,7 +3,7 @@
 This project leverages Power BI to create an interactive sales dashboard for office supplies products. The dashboard provides key insights into sales performance, helping decision-makers understand trends, patterns, and areas for improvement. The dataset includes sales information such as product details, sales numbers, dates, regions, and customer segments.
 
 ## Dataset Used
-- <a https://github.com/RithikRajput/PowerBI/blob/main/orders.xlsx>Sales Dataset</a>
+- <a href="https://github.com/RithikRajput/PowerBI/blob/main/orders.xlsx">Sales Dataset</a>
 
 ## The goal of the project is to:
 
